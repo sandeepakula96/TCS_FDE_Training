@@ -16,5 +16,5 @@ with st.container():
 
 
 with st.sidebar:
-    st.button("Seessions")
+    st.button("Sessions")
 
